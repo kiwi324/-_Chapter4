@@ -1,0 +1,3 @@
+﻿  example4_06_Circle.cpp
+c:\users\kiwi\source\repos\example4_04_circle\example4_04_circle\example4_06_circle.cpp(12): error C2662: “double Circle::Area(void)”: 不能将“this”指针从“const Circle”转换为“Circle &”
+  c:\users\kiwi\source\repos\example4_04_circle\example4_04_circle\example4_06_circle.cpp(12): note: 转换丢失限定符

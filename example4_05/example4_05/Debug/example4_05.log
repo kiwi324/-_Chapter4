@@ -1,0 +1,3 @@
+﻿  example4_05.cpp
+c:\users\kiwi\source\repos\example4_05\example4_05\example4_05.cpp(46): error C2662: “void Person::Print(void)”: 不能将“this”指针从“const Person”转换为“Person &”
+  c:\users\kiwi\source\repos\example4_05\example4_05\example4_05.cpp(46): note: 转换丢失限定符
